@@ -49,52 +49,58 @@
  {"group": 8, "id": 8, "index": 47, "name": "徐光旭"}
  ];*/
 var students = [
-    {"group":   1   , "id":     1   , "index":  1   , "name": "1"},
-    {"group":   2   , "id":     2   , "index":  2   , "name": "2"},
-    {"group":   3   , "id":     3   , "index":  3   , "name": "3"},
-    {"group":   4   , "id":     4   , "index":  4   , "name": "4"},
-    {"group":   5   , "id":     5   , "index":  5   , "name": "5"},
-    {"group":   6   , "id":     6   , "index":  6   , "name": "6"},
-    {"group":   7   , "id":     7   , "index":  7   , "name": "7"},
-    {"group":   8   , "id":     8   , "index":  8   , "name": "8"},
-    {"group":   9   , "id":     9   , "index":  9   , "name": "9"},
-    {"group":   10  , "id":     10  , "index":  10  , "name": "10"},
-    {"group":   11  , "id":     11  , "index":  11  , "name": "11"},
-    {"group":   12  , "id":     12  , "index":  12  , "name": "12"},
-    {"group":   13  , "id":     13  , "index":  13  , "name": "13"},
-    {"group":   14  , "id":     14  , "index":  14  , "name": "14"},
-    {"group":   15  , "id":     15  , "index":  15  , "name": "15"},
-    {"group":   16  , "id":     16  , "index":  16  , "name": "16"},
-    {"group":   17  , "id":     17  , "index":  17  , "name": "17"},
-    {"group":   18  , "id":     18  , "index":  18  , "name": "18"},
-    {"group":   19  , "id":     19  , "index":  19  , "name": "19"},
-    {"group":   20  , "id":     20  , "index":  20  , "name": "20"},
-    {"group":   21  , "id":     21  , "index":  21  , "name": "21"},
-    {"group":   22  , "id":     22  , "index":  22  , "name": "22"},
-    {"group":   23  , "id":     23  , "index":  23  , "name": "23"},
-    {"group":   24  , "id":     24  , "index":  24  , "name": "24"},
-    {"group":   25  , "id":     25  , "index":  25  , "name": "25"},
-    {"group":   26  , "id":     26  , "index":  26  , "name": "26"},
-    {"group":   27  , "id":     27  , "index":  27  , "name": "27"},
-    {"group":   28  , "id":     28  , "index":  28  , "name": "28"},
-    {"group":   29  , "id":     29  , "index":  29  , "name": "29"},
-    {"group":   30  , "id":     30  , "index":  30  , "name": "30"},
-    {"group":   31  , "id":     31  , "index":  31  , "name": "31"},
-    {"group":   32  , "id":     32  , "index":  32  , "name": "32"},
-    {"group":   33  , "id":     33  , "index":  33  , "name": "33"},
-    {"group":   34  , "id":     34  , "index":  34  , "name": "34"},
-    {"group":   35  , "id":     35  , "index":  35  , "name": "35"},
-    {"group":   36  , "id":     36  , "index":  36  , "name": "36"},
-    {"group":   37  , "id":     37  , "index":  37  , "name": "37"},
-    {"group":   38  , "id":     38  , "index":  38  , "name": "38"},
-    {"group":   39  , "id":     39  , "index":  39  , "name": "39"},
-    {"group":   40  , "id":     40  , "index":  40  , "name": "40"},
-    {"group":   41  , "id":     41  , "index":  41  , "name": "41"},
-    {"group":   42  , "id":     42  , "index":  42  , "name": "42"},
-    {"group":   43  , "id":     43  , "index":  43  , "name": "43"},
-    {"group":   44  , "id":     44  , "index":  44  , "name": "44"},
-    {"group":   45  , "id":     45  , "index":  45  , "name": "45"},
-    {"group":   46  , "id":     46  , "index":  46  , "name": "46"}
+
+    {"group": 	1	, "id": 	1	, "index": 	1	, "name": "郭宁瑶"},
+    {"group": 	2	, "id": 	2	, "index": 	2	, "name": "邓海涛"},
+    {"group": 	3	, "id": 	3	, "index": 	3	, "name": "张义博"},
+    {"group": 	4	, "id": 	4	, "index": 	4	, "name": "韩怡帆"},
+    {"group": 	5	, "id": 	5	, "index": 	5	, "name": "张子涵"},
+    {"group": 	6	, "id": 	6	, "index": 	6	, "name": "杨承硕"},
+    {"group": 	7	, "id": 	7	, "index": 	7	, "name": "董畅"},
+    {"group": 	8	, "id": 	8	, "index": 	8	, "name": "马仔昂"},
+    {"group": 	9	, "id": 	9	, "index": 	9	, "name": "于淏川"},
+    {"group": 	10	, "id": 	10	, "index": 	10	, "name": "郭航源"},
+    {"group": 	11	, "id": 	11	, "index": 	11	, "name": "杨喻喆"},
+    {"group": 	12	, "id": 	12	, "index": 	12	, "name": "潘岩"},
+    {"group": 	13	, "id": 	13	, "index": 	13	, "name": "白依鑫"},
+    {"group": 	14	, "id": 	14	, "index": 	14	, "name": "王永灿"},
+    {"group": 	15	, "id": 	15	, "index": 	15	, "name": "段亚宗"},
+    {"group": 	16	, "id": 	16	, "index": 	16	, "name": "李圳港"},
+    {"group": 	17	, "id": 	17	, "index": 	17	, "name": "夏艺萌"},
+    {"group": 	18	, "id": 	18	, "index": 	18	, "name": "苏文博"},
+    {"group": 	19	, "id": 	19	, "index": 	19	, "name": "刘涵茹"},
+    {"group": 	20	, "id": 	20	, "index": 	20	, "name": "胡浩宇"},
+    {"group": 	21	, "id": 	21	, "index": 	21	, "name": "安泳翰"},
+    {"group": 	22	, "id": 	22	, "index": 	22	, "name": "刘亦然"},
+    {"group": 	23	, "id": 	23	, "index": 	23	, "name": "杨帅辉"},
+    {"group": 	24	, "id": 	24	, "index": 	24	, "name": "冯帅璞"},
+    {"group": 	25	, "id": 	25	, "index": 	25	, "name": "杨德良"},
+    {"group": 	26	, "id": 	26	, "index": 	26	, "name": "韩雨萌"},
+    {"group": 	27	, "id": 	27	, "index": 	27	, "name": "薛星瑶"},
+    {"group": 	28	, "id": 	28	, "index": 	28	, "name": "赵一凡"},
+    {"group": 	29	, "id": 	29	, "index": 	29	, "name": "刘娅楠"},
+    {"group": 	30	, "id": 	30	, "index": 	30	, "name": "张帅良"},
+    {"group": 	31	, "id": 	31	, "index": 	31	, "name": "李梓郢"},
+    {"group": 	32	, "id": 	32	, "index": 	32	, "name": "陈俊含"},
+    {"group": 	33	, "id": 	33	, "index": 	33	, "name": "张子阳"},
+    {"group": 	34	, "id": 	34	, "index": 	34	, "name": "冯硕"},
+    {"group": 	35	, "id": 	35	, "index": 	35	, "name": "王帅博"},
+    {"group": 	36	, "id": 	36	, "index": 	36	, "name": "冯怡珂"},
+    {"group": 	37	, "id": 	37	, "index": 	37	, "name": "张怡宁"},
+    {"group": 	38	, "id": 	38	, "index": 	38	, "name": "张博博"},
+    {"group": 	39	, "id": 	39	, "index": 	39	, "name": "李润博"},
+    {"group": 	40	, "id": 	40	, "index": 	40	, "name": "赵硕果"},
+    {"group": 	41	, "id": 	41	, "index": 	41	, "name": "郭怡宁"},
+    {"group": 	42	, "id": 	42	, "index": 	42	, "name": "杨佳雨"},
+    {"group": 	43	, "id": 	43	, "index": 	43	, "name": "程霁"},
+    {"group": 	44	, "id": 	44	, "index": 	44	, "name": "张轩恺"},
+    {"group": 	45	, "id": 	45	, "index": 	45	, "name": "黄奕"},
+    {"group": 	46	, "id": 	46	, "index": 	46	, "name": "陈婉琳"},
+    {"group": 	47	, "id": 	47	, "index": 	47	, "name": "张佳欣"},
+    {"group": 	48	, "id": 	48	, "index": 	48	, "name": "李凯雯"},
+    {"group": 	49	, "id": 	49	, "index": 	49	, "name": "郭世通"},
+    {"group": 	50	, "id": 	50	, "index": 	50	, "name": "李林黛"},
+    {"group": 	0	, "id": 	0	, "index": 	0	, "name": "你在哪"}
 ];
 /**
  * 通过id重新排序
@@ -115,15 +121,15 @@ function sortStuentsById(arr) {
 }
 var start = 0;
 var end = 47 + 12;
+// var random = 0;
 function seleteStudent() {
     // if (my$("btnSet").getAttribute("clicked")) {
         // 获取所有学生列表
         var stuBox = document.getElementsByClassName("person");
         // var indexArr = getIndexById(my$("btnSet").getAttribute("from"), my$("btnSet").getAttribute("to"));
-        var indexArr =getIndexById(1,47);
+        var indexArr =getIndexById(0,51);
         var random = parseInt(Math.random() * indexArr.length);
-console.log(random)
-
+    // console.log(stuBox[50].id)
         // 排他 清除其他背景色
         for (var i = 0; i < stuBox.length; i++) {
             stuBox[i].style.background = "";
@@ -131,6 +137,8 @@ console.log(random)
 
         // 设置选中的背景色
         stuBox[indexArr[random]].style.background = "yellow";
+        // console.log(random)
+    // random++;
     //
     //
     // } else {
