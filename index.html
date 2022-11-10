@@ -33,9 +33,16 @@
     </style>
 </head>
 <body>
-    <p>去植物园记得不要忘记补充水分哦</p>
+    <p>点击页面有惊喜哟</p>
     <canvas id="pinkboard"></canvas>
     <script>
+
+        document.body.onclick=function(){
+            window.location.replace('./dianming');
+
+        };
+
+
         var settings = {
             particles: {
                 length: 600,  // 爱心的大小
